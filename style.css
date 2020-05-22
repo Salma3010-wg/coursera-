@@ -1,0 +1,35 @@
+body {
+	margin:0;
+}
+
+h1 {
+	text-align: center;
+	width: 100%
+}
+.box {
+	background-color : gray;
+	height:auto;
+	margin: 10px;
+	border: 2px solid #000;
+}
+
+.box .box-header {
+	width: 100%;
+}
+
+.box .box-header span {
+	float:right;
+	background-color: green;
+	color: #fff;
+	border:1px solid red;
+	padding: 5px;
+}
+
+.box .box-body {
+	padding: 10px 15px;
+}
+
+
+.warpper {
+
+}
